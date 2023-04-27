@@ -2,8 +2,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Random;
 
-//TURN CATEGORIES INTO SUBCLASSES
-
 class Item {
         
     String name;
